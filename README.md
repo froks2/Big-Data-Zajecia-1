@@ -1,3 +1,5 @@
+Aktywny pull request do oddania
+
 # Big-Data-Zajecia-1
 
 Zadanie z przedmiotu Big Data.
