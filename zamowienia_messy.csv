@@ -1,0 +1,521 @@
+order_id,klient,produkt,kategoria,miasto,ilosc,cena_jednostkowa,data_zamowienia,email
+1001,  Jan Nowak,Mysz,Akcesoria,kraków,2,199.99,13.06.2025,
+1002,Anna Kowalska,Monitor,elektronika,Kraków,1,399.00 zł,2025-04-09,marta@gmail.com
+1003,Anna Kowalska,Mysz,Elektronika,WROCŁAW,1,abc,04.01.2025,JAN@WP.PL
+1004,PIOTR WIŚNIEWSKI,Słuchawki,akcesoria,kraków,1,,05.07.2025,
+1005,PIOTR WIŚNIEWSKI,Mysz,Elektronika,Gdańsk,1,1 499.00,2025-02-05,anna@gmail.com
+1006, Magdalena Dąbrowska,Laptop,Akcesoria ,warszawa,1,"299,99",04.07.2025,tomasz@interia.pl
+1007,katarzyna lewandowska,monitor,akcesoria,Łódź ,1,1 499.00,2025-10-11,marta@gmail.com
+1008,PIOTR WIŚNIEWSKI,Laptop,ELEKTRONIKA,Poznań,3,199.99,24.05.2025,anna@gmail.com
+1009, Magdalena Dąbrowska,Pendrive,Akcesoria, Warszawa,1,abc,2025-10-21,anna@gmail.com
+1010,anna kowalska ,Mysz,ELEKTRONIKA,warszawa,1,199.99,2025-05-10,tomasz@interia.pl
+1011,Tomasz Zieliński ,Pendrive,elektronika,WROCŁAW,1,2999,2025-09-28,marta@gmail.com
+1012,Tomasz Zieliński ,Klawiatura,Elektronika,Gdańsk,5,,25.07.2025,krzysztof.k@gmail.com
+1013,anna kowalska ,MYSZ,Akcesoria ,Gdańsk,2,199.99,2025-05-23,anna@gmail.com
+1014,Marta Wójcik,Klawiatura,akcesoria,Gdańsk,2,1 499.00,2025-06-29,anna@gmail.com
+1015, Magdalena Dąbrowska,Słuchawki,akcesoria, Warszawa,1,89.50,06.04.2025,marta@gmail.com
+1016, Magdalena Dąbrowska,Webcam,Elektronika,Poznań,2,89.50,09.04.2025,piotr.w@onet
+1017,anna kowalska ,monitor,Akcesoria ,warszawa,1,2999,23.02.2025,anna@gmail.com
+1018,  Jan Nowak,Mysz,Elektronika,WROCŁAW,2,399.00 zł,09.08.2025,JAN@WP.PL
+1019,Krzysztof Kamiński,laptop,elektronika,Poznań,5,1 499.00,10.04.2025,marta@gmail.com
+1020,Anna Kowalska,MYSZ,ELEKTRONIKA,WROCŁAW,2,1 499.00,05.10.2025,anna@gmail.com
+1021,anna kowalska ,Monitor,akcesoria,Poznań,5,199.99,2025-07-21,tomasz@interia.pl
+1022,PIOTR WIŚNIEWSKI,Monitor,elektronika, Warszawa,3,,2025-07-07,
+1023,PIOTR WIŚNIEWSKI,Monitor,ELEKTRONIKA,Łódź ,1,1 499.00,08.02.2025,JAN@WP.PL
+1024,katarzyna lewandowska,Mysz,elektronika,WROCŁAW,5,"299,99",26.08.2025,brak
+1025,anna kowalska ,Monitor,Akcesoria ,Poznań,1,399.00 zł,29.06.2025,brak
+1026,katarzyna lewandowska,Laptop,akcesoria,Gdańsk,2,199.99,2025-10-13,
+1027,anna kowalska ,MYSZ,Elektronika,kraków,1,"299,99",19.01.2025,brak
+1028, Magdalena Dąbrowska,Laptop,Elektronika,Gdańsk,1,2999,25.08.2025,
+1029,Anna Kowalska,Webcam,ELEKTRONIKA,Warszawa,1,89.50,2025-06-09,anna@gmail.com
+1030, Magdalena Dąbrowska,MYSZ,Akcesoria,Łódź ,1,2999,22.09.2025,JAN@WP.PL
+1031,Krzysztof Kamiński,Laptop,Akcesoria ,Łódź ,1,89.50,2025-06-09,JAN@WP.PL
+1032,Tomasz Zieliński ,MYSZ,,,2,2999,,piotr.w@onet
+1033,Anna Kowalska,Webcam,Akcesoria,warszawa,1,1 499.00,2025-09-17,
+1034,anna kowalska ,Pendrive,elektronika, Warszawa,1,"299,99",09.04.2025,JAN@WP.PL
+1035,Krzysztof Kamiński,Mysz,Akcesoria ,WROCŁAW,2,89.50,2025-08-13,piotr.w@onet
+1036,Tomasz Zieliński ,Mysz,elektronika,Łódź ,1,199.99,2025-10-07,marta@gmail.com
+1037,Marta Wójcik,Monitor,akcesoria,Gdańsk,3,"299,99",2025-10-22,piotr.w@onet
+1038,Anna Kowalska,Klawiatura,Akcesoria ,Gdańsk,2,199.99,2025-01-28,tomasz@interia.pl
+1039,katarzyna lewandowska,Monitor,Akcesoria, Warszawa,3,"299,99",19.06.2025,krzysztof.k@gmail.com
+1040,katarzyna lewandowska,Słuchawki,akcesoria, Warszawa,2,"299,99",06.07.2025,anna@gmail.com
+1041, Magdalena Dąbrowska,Laptop,Elektronika,Kraków,1,2999,23.07.2025,marta@gmail.com
+1042,PIOTR WIŚNIEWSKI,MYSZ,Akcesoria,Kraków,2,89.50,06.02.2025,krzysztof.k@gmail.com
+1043,Tomasz Zieliński ,Klawiatura,ELEKTRONIKA,warszawa,1,89.50,2025-10-16,krzysztof.k@gmail.com
+1044,Marta Wójcik,Webcam,Elektronika,warszawa,1,,13.10.2025,marta@gmail.com
+1045,Krzysztof Kamiński,Słuchawki,Elektronika,Warszawa,3,"299,99",16.02.2025,tomasz@interia.pl
+1046,Anna Kowalska,Webcam,ELEKTRONIKA,warszawa,1,1 499.00,2025-02-11,piotr.w@onet
+1047,Tomasz Zieliński ,Mysz,Akcesoria ,Poznań,3,1 499.00,2025-07-20,anna@gmail.com
+1048,Marta Wójcik,Mysz,,,3,199.99,,piotr.w@onet
+1049,Anna Kowalska,Monitor,Akcesoria,Poznań,5,199.99,30.09.2025,JAN@WP.PL
+1050,anna kowalska ,Laptop,akcesoria,WROCŁAW,5,2999,21.08.2025,piotr.w@onet
+1051,katarzyna lewandowska,Klawiatura,Elektronika,Gdańsk,1,"299,99",2025-05-24,brak
+1052,Krzysztof Kamiński,monitor,Akcesoria,warszawa,1,199.99,12.06.2025,marta@gmail.com
+1053,katarzyna lewandowska,Słuchawki,elektronika,Gdańsk,2,199.99,27.03.2025,anna@gmail.com
+1054,Krzysztof Kamiński,Słuchawki,Akcesoria,Łódź ,1,399.00 zł,2025-09-09,piotr.w@onet
+1055, Magdalena Dąbrowska,Monitor,akcesoria,Warszawa,2,"299,99",03.08.2025,anna@gmail.com
+1056,PIOTR WIŚNIEWSKI,Mysz,Akcesoria,Łódź ,3,abc,30.03.2025,anna@gmail.com
+1057,Krzysztof Kamiński,Monitor,ELEKTRONIKA,Warszawa,2,2999,2025-06-12,JAN@WP.PL
+1058,katarzyna lewandowska,MYSZ,akcesoria,Kraków,1,199.99,02.04.2025,JAN@WP.PL
+1059, Magdalena Dąbrowska,Klawiatura,Akcesoria ,Gdańsk,1,2999,09.07.2025,marta@gmail.com
+1060,Krzysztof Kamiński,Laptop,elektronika,Warszawa,1,89.50,22.05.2025,tomasz@interia.pl
+1061,Anna Kowalska,Pendrive,ELEKTRONIKA,kraków,1,2999,16.03.2025,brak
+1062,PIOTR WIŚNIEWSKI,laptop,Akcesoria ,Poznań,5,abc,08.02.2025,krzysztof.k@gmail.com
+1063,Krzysztof Kamiński,laptop,Akcesoria,Warszawa,1,1 499.00,2025-03-27,anna@gmail.com
+1064, Magdalena Dąbrowska,Monitor,akcesoria,Warszawa,1,abc,13.09.2025,tomasz@interia.pl
+1065,Tomasz Zieliński ,MYSZ,elektronika,Poznań,1,1 499.00,2025-04-06,krzysztof.k@gmail.com
+1066,  Jan Nowak,Klawiatura,,,2,2999,,krzysztof.k@gmail.com
+1067,Marta Wójcik,monitor,,,2,1 499.00,,brak
+1068,  Jan Nowak,laptop,,,1,89.50,,marta@gmail.com
+1069,  Jan Nowak,Klawiatura,elektronika,Łódź ,1,"299,99",07.04.2025,krzysztof.k@gmail.com
+1070,Anna Kowalska,Laptop,Akcesoria,kraków,1,1 499.00,2025-09-16,brak
+1071,Anna Kowalska,Webcam,elektronika,WROCŁAW,1,1 499.00,09.01.2025,krzysztof.k@gmail.com
+1072,Tomasz Zieliński ,MYSZ,Akcesoria ,kraków,2,2999,27.02.2025,anna@gmail.com
+1073,anna kowalska ,Mysz,Elektronika,Gdańsk,2,89.50,26.08.2025,anna@gmail.com
+1074,Krzysztof Kamiński,Klawiatura,ELEKTRONIKA,Kraków,1,,04.09.2025,
+1075,Marta Wójcik,Laptop,elektronika,warszawa,1,,2025-08-29,tomasz@interia.pl
+1076,PIOTR WIŚNIEWSKI,monitor,Akcesoria ,Warszawa,0,,12.01.2025,piotr.w@onet
+1077,Tomasz Zieliński ,Pendrive,Akcesoria,Poznań,1,,2025-05-15,brak
+1078,katarzyna lewandowska,Mysz,Akcesoria ,Poznań,2,"299,99",2025-01-09,JAN@WP.PL
+1079,anna kowalska ,Pendrive,Akcesoria,Warszawa,1,abc,2025-05-06,brak
+1080,Anna Kowalska,monitor,elektronika,warszawa,1,2999,04.10.2025,piotr.w@onet
+1081,Anna Kowalska,Laptop,Akcesoria,WROCŁAW,1,2999,18.08.2025,tomasz@interia.pl
+1082,Tomasz Zieliński ,laptop,akcesoria,warszawa,2,399.00 zł,06.03.2025,JAN@WP.PL
+1083, Magdalena Dąbrowska,Pendrive,akcesoria,warszawa,-1,89.50,2025-07-26,piotr.w@onet
+1084,  Jan Nowak,Mysz,akcesoria,warszawa,1,,2025-08-03,
+1085,katarzyna lewandowska,Monitor,Elektronika,WROCŁAW,1,"299,99",2025-10-11,JAN@WP.PL
+1086,Anna Kowalska,Słuchawki,elektronika,WROCŁAW,1,89.50,30.04.2025,anna@gmail.com
+1087,Marta Wójcik,Klawiatura,Akcesoria ,Gdańsk,1,,2025-01-02,piotr.w@onet
+1088,Anna Kowalska,laptop,Akcesoria ,Warszawa,1,"299,99",10.08.2025,brak
+1089,PIOTR WIŚNIEWSKI,Pendrive,Elektronika,WROCŁAW,1,89.50,21.09.2025,JAN@WP.PL
+1090,Krzysztof Kamiński,Webcam,Akcesoria,WROCŁAW,3,2999,2025-02-28,
+1091,Anna Kowalska,Klawiatura,,,1,2999,,brak
+1092,PIOTR WIŚNIEWSKI,Monitor,Akcesoria,Poznań,1,abc,2025-07-09,krzysztof.k@gmail.com
+1093,Tomasz Zieliński ,monitor,Akcesoria,Gdańsk,5,199.99,2025-08-03,JAN@WP.PL
+1094,Tomasz Zieliński ,Słuchawki,ELEKTRONIKA,Łódź ,1,abc,24.04.2025,JAN@WP.PL
+1095,anna kowalska ,Laptop,Akcesoria ,Łódź ,-1,1 499.00,17.08.2025,
+1096,Anna Kowalska,Monitor,akcesoria,Kraków,1,abc,2025-04-26,krzysztof.k@gmail.com
+1097,Marta Wójcik,Monitor,Akcesoria,warszawa,5,,07.05.2025,piotr.w@onet
+1098,Anna Kowalska,monitor,ELEKTRONIKA,Warszawa,2,399.00 zł,25.03.2025,marta@gmail.com
+1099,Marta Wójcik,MYSZ,Akcesoria , Warszawa,3,89.50,2025-05-11,piotr.w@onet
+1100,Anna Kowalska,monitor,akcesoria,kraków,0,399.00 zł,2025-06-21,krzysztof.k@gmail.com
+1101,anna kowalska ,MYSZ,Akcesoria,Gdańsk,1,199.99,2025-05-04,tomasz@interia.pl
+1102,Anna Kowalska,MYSZ,Akcesoria,Poznań,-1,1 499.00,2025-09-28,brak
+1103,Anna Kowalska,laptop,Elektronika,kraków,1,89.50,17.03.2025,
+1104,anna kowalska ,laptop,Elektronika,Poznań,1,"299,99",2025-04-06,piotr.w@onet
+1105,Anna Kowalska,Mysz,Akcesoria ,kraków,1,,22.02.2025,JAN@WP.PL
+1106,  Jan Nowak,Pendrive,akcesoria,Gdańsk,2,1 499.00,20.02.2025,
+1107,Anna Kowalska,Pendrive,Akcesoria, Warszawa,1,2999,06.05.2025,anna@gmail.com
+1108,Anna Kowalska,Laptop,Akcesoria ,kraków,2,199.99,2025-02-23,krzysztof.k@gmail.com
+1109,  Jan Nowak,Pendrive,Akcesoria ,Gdańsk,2,1 499.00,09.06.2025,brak
+1110,  Jan Nowak,laptop,elektronika,WROCŁAW,3,,2025-02-21,piotr.w@onet
+1111,Tomasz Zieliński ,Mysz,Elektronika, Warszawa,3,abc,2025-05-08,
+1112,Anna Kowalska,Mysz,akcesoria,Poznań,1,1 499.00,17.03.2025,brak
+1113,  Jan Nowak,MYSZ,Akcesoria,Łódź ,1,abc,2025-05-09,piotr.w@onet
+1114,Tomasz Zieliński ,monitor,Akcesoria ,warszawa,1,,2025-08-15,
+1115,Anna Kowalska,Laptop,Akcesoria,Łódź ,1,2999,2025-04-10,JAN@WP.PL
+1116,PIOTR WIŚNIEWSKI,MYSZ,elektronika, Warszawa,1,89.50,2025-10-01,anna@gmail.com
+1117,Anna Kowalska,monitor,akcesoria,Poznań,1,"299,99",2025-05-28,anna@gmail.com
+1118,anna kowalska ,Pendrive,Akcesoria ,kraków,1,2999,11.04.2025,tomasz@interia.pl
+1119,Marta Wójcik,MYSZ,Akcesoria,Poznań,-1,abc,2025-10-25,
+1120,Marta Wójcik,Klawiatura,,,2,abc,,piotr.w@onet
+1121,Anna Kowalska,Pendrive,elektronika,Gdańsk,1,"299,99",2025-07-27,anna@gmail.com
+1122, Magdalena Dąbrowska,monitor,akcesoria, Warszawa,2,89.50,2025-02-06,krzysztof.k@gmail.com
+1123, Magdalena Dąbrowska,Laptop,elektronika,Gdańsk,1,1 499.00,2025-05-15,anna@gmail.com
+1124,Anna Kowalska,monitor,Elektronika,Kraków,1,"299,99",29.09.2025,marta@gmail.com
+1125,  Jan Nowak,MYSZ,akcesoria,kraków,2,199.99,01.06.2025,marta@gmail.com
+1126,Anna Kowalska,MYSZ,elektronika,WROCŁAW,1,199.99,2025-06-21,anna@gmail.com
+1127,Marta Wójcik,Monitor,ELEKTRONIKA,Gdańsk,1,,2025-09-18,
+1128,Marta Wójcik,Laptop,Elektronika,Kraków,0,2999,13.01.2025,tomasz@interia.pl
+1129,  Jan Nowak,Webcam,Elektronika,Warszawa,5,abc,11.07.2025,anna@gmail.com
+1130,Marta Wójcik,Pendrive,Elektronika,Łódź ,2,89.50,03.03.2025,JAN@WP.PL
+1131,anna kowalska ,Mysz,ELEKTRONIKA,Poznań,2,,2025-08-21,brak
+1132,Anna Kowalska,Laptop,ELEKTRONIKA,Kraków,2,2999,2025-10-21,piotr.w@onet
+1133,Krzysztof Kamiński,Mysz,Akcesoria, Warszawa,1,2999,08.10.2025,tomasz@interia.pl
+1134,Marta Wójcik,Laptop,Akcesoria ,Gdańsk,1,,2025-05-08,JAN@WP.PL
+1135,Anna Kowalska,Laptop,elektronika, Warszawa,1,399.00 zł,2025-08-22,tomasz@interia.pl
+1136,anna kowalska ,monitor,Akcesoria,Łódź ,1,2999,2025-08-13,JAN@WP.PL
+1137,Marta Wójcik,Laptop,elektronika,WROCŁAW,2,399.00 zł,2025-08-08,piotr.w@onet
+1138,anna kowalska ,Monitor,Akcesoria , Warszawa,1,199.99,17.03.2025,piotr.w@onet
+1139,Tomasz Zieliński ,Webcam,ELEKTRONIKA,kraków,-1,199.99,31.03.2025,marta@gmail.com
+1140,Krzysztof Kamiński,MYSZ,Akcesoria ,WROCŁAW,5,2999,2025-03-04,
+1141,katarzyna lewandowska,Słuchawki,ELEKTRONIKA,WROCŁAW,3,199.99,23.01.2025,JAN@WP.PL
+1142,Anna Kowalska,Mysz,Akcesoria ,Kraków,2,89.50,2025-04-09,brak
+1143,Anna Kowalska,MYSZ,,,5,399.00 zł,,marta@gmail.com
+1144,Anna Kowalska,Słuchawki,akcesoria,warszawa,1,399.00 zł,30.09.2025,JAN@WP.PL
+1145,anna kowalska ,Webcam,Akcesoria,Łódź ,3,2999,07.10.2025,marta@gmail.com
+1146,  Jan Nowak,Webcam,elektronika,WROCŁAW,1,199.99,2025-08-30,piotr.w@onet
+1147,Anna Kowalska,Mysz,,,3,"299,99",,tomasz@interia.pl
+1148,anna kowalska ,Mysz,Elektronika,Warszawa,1,abc,2025-06-19,krzysztof.k@gmail.com
+1149,anna kowalska ,Webcam,elektronika,warszawa,5,,2025-04-18,marta@gmail.com
+1150,PIOTR WIŚNIEWSKI,Słuchawki,Akcesoria ,warszawa,5,,2025-02-13,JAN@WP.PL
+1151,PIOTR WIŚNIEWSKI,Laptop,elektronika,kraków,1,399.00 zł,04.02.2025,JAN@WP.PL
+1152,katarzyna lewandowska,Pendrive,akcesoria,WROCŁAW,1,2999,08.08.2025,krzysztof.k@gmail.com
+1153,Tomasz Zieliński ,Klawiatura,ELEKTRONIKA,kraków,0,2999,2025-07-09,
+1154,katarzyna lewandowska,MYSZ,Akcesoria ,kraków,1,89.50,07.05.2025,brak
+1155,Marta Wójcik,monitor,elektronika,Warszawa,5,1 499.00,10.01.2025,piotr.w@onet
+1156,  Jan Nowak,MYSZ,Akcesoria ,Kraków,2,abc,2025-03-13,JAN@WP.PL
+1157,Marta Wójcik,monitor,Akcesoria ,WROCŁAW,1,1 499.00,25.06.2025,anna@gmail.com
+1158, Magdalena Dąbrowska,Słuchawki,Akcesoria ,Gdańsk,1,399.00 zł,24.04.2025,tomasz@interia.pl
+1159,Marta Wójcik,monitor,ELEKTRONIKA,kraków,1,,2025-09-10,marta@gmail.com
+1160,Anna Kowalska,Mysz,Akcesoria,Łódź ,3,89.50,2025-05-17,
+1161,Marta Wójcik,Pendrive,Akcesoria ,Poznań,1,89.50,2025-05-11,brak
+1162,katarzyna lewandowska,Pendrive,Elektronika,Łódź ,2,89.50,07.06.2025,krzysztof.k@gmail.com
+1163,Anna Kowalska,Mysz,akcesoria,Warszawa,1,399.00 zł,2025-01-09,tomasz@interia.pl
+1164,Anna Kowalska,Monitor,ELEKTRONIKA,Warszawa,2,1 499.00,2025-09-28,piotr.w@onet
+1165,PIOTR WIŚNIEWSKI,Słuchawki,elektronika, Warszawa,5,,2025-08-01,
+1166,  Jan Nowak,Monitor,ELEKTRONIKA,Kraków,0,89.50,12.06.2025,brak
+1167,  Jan Nowak,Monitor,elektronika,kraków,1,,02.10.2025,marta@gmail.com
+1168,Anna Kowalska,MYSZ,ELEKTRONIKA,Łódź ,3,199.99,2025-04-11,marta@gmail.com
+1169,katarzyna lewandowska,Webcam,,,3,2999,,krzysztof.k@gmail.com
+1170,PIOTR WIŚNIEWSKI,MYSZ,Akcesoria ,Warszawa,2,2999,2025-02-22,anna@gmail.com
+1171, Magdalena Dąbrowska,Webcam,Akcesoria,Warszawa,-1,,28.09.2025,krzysztof.k@gmail.com
+1172,  Jan Nowak,Klawiatura,elektronika,Kraków,1,"299,99",2025-04-09,piotr.w@onet
+1173,Anna Kowalska,monitor,elektronika,Poznań,1,"299,99",02.05.2025,
+1174,Marta Wójcik,Webcam,Elektronika,Poznań,5,399.00 zł,15.08.2025,
+1175,Marta Wójcik,Mysz,elektronika,Kraków,1,399.00 zł,2025-06-10,JAN@WP.PL
+1176,PIOTR WIŚNIEWSKI,MYSZ,Elektronika,Warszawa,3,2999,2025-03-09,anna@gmail.com
+1177,katarzyna lewandowska,Słuchawki,akcesoria,WROCŁAW,5,199.99,16.02.2025,anna@gmail.com
+1178,katarzyna lewandowska,monitor,Akcesoria ,WROCŁAW,1,abc,25.09.2025,
+1179,Tomasz Zieliński ,Klawiatura,Elektronika,Kraków,5,1 499.00,07.09.2025,
+1180,Krzysztof Kamiński,Webcam,Akcesoria,Poznań,1,1 499.00,2025-09-20,tomasz@interia.pl
+1181,  Jan Nowak,Klawiatura,Akcesoria ,kraków,2,399.00 zł,2025-02-22,brak
+1182,katarzyna lewandowska,Słuchawki,Elektronika,Kraków,2,199.99,23.02.2025,tomasz@interia.pl
+1183,Anna Kowalska,Monitor,Akcesoria ,Kraków,5,399.00 zł,2025-10-07,tomasz@interia.pl
+1184,PIOTR WIŚNIEWSKI,Pendrive,Akcesoria ,warszawa,1,abc,2025-05-31,anna@gmail.com
+1185, Magdalena Dąbrowska,Słuchawki,Akcesoria ,Łódź ,1,1 499.00,2025-05-11,JAN@WP.PL
+1186,Tomasz Zieliński ,laptop,akcesoria,Poznań,2,,19.06.2025,marta@gmail.com
+1187,anna kowalska ,Słuchawki,Akcesoria, Warszawa,3,399.00 zł,2025-06-19,tomasz@interia.pl
+1188,Anna Kowalska,Klawiatura,ELEKTRONIKA, Warszawa,2,89.50,04.02.2025,JAN@WP.PL
+1189, Magdalena Dąbrowska,Mysz,ELEKTRONIKA,Poznań,1,,06.01.2025,krzysztof.k@gmail.com
+1190,anna kowalska ,MYSZ,,,1,abc,,piotr.w@onet
+1191,Marta Wójcik,Mysz,Akcesoria ,warszawa,1,abc,2025-07-11,tomasz@interia.pl
+1192,Anna Kowalska,Klawiatura,Elektronika,Warszawa,3,399.00 zł,2025-07-03,krzysztof.k@gmail.com
+1193,  Jan Nowak,MYSZ,akcesoria,Łódź ,1,2999,02.04.2025,marta@gmail.com
+1194,Anna Kowalska,laptop,akcesoria,WROCŁAW,1,399.00 zł,2025-01-02,piotr.w@onet
+1195,Anna Kowalska,Pendrive,elektronika,Gdańsk,-1,2999,05.08.2025,piotr.w@onet
+1196,Krzysztof Kamiński,monitor,akcesoria,Gdańsk,1,abc,15.10.2025,marta@gmail.com
+1197,anna kowalska ,Klawiatura,elektronika,Gdańsk,0,199.99,2025-09-15,tomasz@interia.pl
+1198,  Jan Nowak,Webcam,Akcesoria,Poznań,2,abc,2025-05-09,anna@gmail.com
+1199,Krzysztof Kamiński,Klawiatura,Elektronika, Warszawa,3,1 499.00,2025-03-30,marta@gmail.com
+1200,Marta Wójcik,Klawiatura,Akcesoria, Warszawa,1,,2025-10-04,marta@gmail.com
+1201,Krzysztof Kamiński,MYSZ,akcesoria,WROCŁAW,1,,2025-03-16,marta@gmail.com
+1202,Tomasz Zieliński ,Laptop,Akcesoria,Poznań,3,"299,99",18.02.2025,piotr.w@onet
+1203,Tomasz Zieliński ,Słuchawki,Akcesoria,Gdańsk,3,"299,99",04.05.2025,brak
+1204,PIOTR WIŚNIEWSKI,Laptop,Akcesoria,kraków,3,abc,2025-04-17,JAN@WP.PL
+1205, Magdalena Dąbrowska,laptop,akcesoria, Warszawa,1,1 499.00,03.08.2025,krzysztof.k@gmail.com
+1206, Magdalena Dąbrowska,Webcam,Akcesoria ,Warszawa,3,"299,99",2025-02-21,anna@gmail.com
+1207,  Jan Nowak,Pendrive,Akcesoria,Kraków,3,,27.05.2025,tomasz@interia.pl
+1208,Marta Wójcik,Monitor,elektronika,kraków,2,399.00 zł,2025-09-12,tomasz@interia.pl
+1209,katarzyna lewandowska,laptop,akcesoria, Warszawa,3,199.99,2025-03-01,krzysztof.k@gmail.com
+1210,Tomasz Zieliński ,Monitor,Akcesoria,warszawa,3,199.99,23.05.2025,JAN@WP.PL
+1211,  Jan Nowak,Monitor,Akcesoria , Warszawa,2,1 499.00,2025-01-15,marta@gmail.com
+1212,katarzyna lewandowska,Pendrive,akcesoria,Warszawa,1,abc,2025-03-07,brak
+1213, Magdalena Dąbrowska,Mysz,ELEKTRONIKA,Gdańsk,1,"299,99",2025-06-18,anna@gmail.com
+1214,PIOTR WIŚNIEWSKI,Laptop,Akcesoria ,warszawa,1,399.00 zł,10.03.2025,tomasz@interia.pl
+1215,Krzysztof Kamiński,Klawiatura,elektronika,Poznań,1,199.99,15.04.2025,krzysztof.k@gmail.com
+1216,Tomasz Zieliński ,monitor,Akcesoria,Łódź ,1,199.99,15.02.2025,
+1217,  Jan Nowak,Monitor,ELEKTRONIKA,Gdańsk,1,89.50,2025-04-14,brak
+1218,Anna Kowalska,Webcam,ELEKTRONIKA,Łódź ,1,abc,2025-08-31,krzysztof.k@gmail.com
+1219,katarzyna lewandowska,laptop,akcesoria,kraków,1,89.50,2025-04-22,brak
+1220,Krzysztof Kamiński,Mysz,ELEKTRONIKA,Kraków,3,,07.10.2025,tomasz@interia.pl
+1221,Tomasz Zieliński ,Monitor,elektronika,warszawa,5,199.99,2025-08-06,marta@gmail.com
+1222, Magdalena Dąbrowska,Mysz,elektronika,WROCŁAW,1,1 499.00,19.09.2025,
+1223,Marta Wójcik,Mysz,Elektronika,warszawa,-1,2999,2025-08-19,JAN@WP.PL
+1224,katarzyna lewandowska,Monitor,elektronika, Warszawa,2,2999,13.01.2025,anna@gmail.com
+1225, Magdalena Dąbrowska,MYSZ,Akcesoria , Warszawa,1,399.00 zł,08.02.2025,JAN@WP.PL
+1226,Tomasz Zieliński ,Słuchawki,ELEKTRONIKA, Warszawa,1,199.99,2025-06-16,JAN@WP.PL
+1227,katarzyna lewandowska,Webcam,elektronika,kraków,2,199.99,2025-04-09,krzysztof.k@gmail.com
+1228,Krzysztof Kamiński,Klawiatura,akcesoria,Gdańsk,3,,02.06.2025,brak
+1229,Tomasz Zieliński ,Klawiatura,Elektronika,WROCŁAW,3,199.99,03.09.2025,anna@gmail.com
+1230,anna kowalska ,Webcam,ELEKTRONIKA,WROCŁAW,1,1 499.00,2025-02-19,anna@gmail.com
+1231,  Jan Nowak,MYSZ,Elektronika, Warszawa,1,89.50,25.05.2025,tomasz@interia.pl
+1232,Krzysztof Kamiński,Klawiatura,ELEKTRONIKA,Łódź ,1,199.99,2025-10-10,tomasz@interia.pl
+1233,katarzyna lewandowska,Mysz,akcesoria,kraków,1,199.99,2025-08-04,anna@gmail.com
+1234,Marta Wójcik,Pendrive,Elektronika, Warszawa,1,,2025-06-11,
+1235, Magdalena Dąbrowska,laptop,Akcesoria,Kraków,1,abc,2025-04-22,piotr.w@onet
+1236,Anna Kowalska,Laptop,Akcesoria ,Gdańsk,3,"299,99",2025-06-20,tomasz@interia.pl
+1237, Magdalena Dąbrowska,Klawiatura,Akcesoria ,Poznań,5,abc,15.09.2025,piotr.w@onet
+1238,katarzyna lewandowska,Webcam,ELEKTRONIKA,Kraków,1,,2025-07-07,krzysztof.k@gmail.com
+1239, Magdalena Dąbrowska,Pendrive,Akcesoria,Łódź ,5,abc,2025-06-06,
+1240,  Jan Nowak,Monitor,Elektronika,warszawa,1,,13.10.2025,anna@gmail.com
+1241,Tomasz Zieliński ,Słuchawki,Akcesoria,warszawa,1,1 499.00,2025-02-04,
+1242,Anna Kowalska,Webcam,Akcesoria,Kraków,1,399.00 zł,2025-05-20,tomasz@interia.pl
+1243,Anna Kowalska,Mysz,Elektronika, Warszawa,2,199.99,10.04.2025,JAN@WP.PL
+1244,katarzyna lewandowska,Słuchawki,akcesoria,Poznań,0,,06.10.2025,krzysztof.k@gmail.com
+1245,PIOTR WIŚNIEWSKI,laptop,Akcesoria,Warszawa,2,,07.10.2025,anna@gmail.com
+1246,Anna Kowalska,laptop,Akcesoria,Warszawa,1,"299,99",07.09.2025,marta@gmail.com
+1247, Magdalena Dąbrowska,MYSZ,akcesoria,Łódź ,2,,06.08.2025,krzysztof.k@gmail.com
+1248,katarzyna lewandowska,monitor,Akcesoria, Warszawa,1,2999,26.05.2025,brak
+1249,anna kowalska ,MYSZ,Akcesoria,WROCŁAW,5,399.00 zł,04.09.2025,piotr.w@onet
+1250,PIOTR WIŚNIEWSKI,Pendrive,,,2,199.99,,
+1251,Anna Kowalska,Słuchawki,Akcesoria ,Gdańsk,1,199.99,30.05.2025,anna@gmail.com
+1252,Marta Wójcik,monitor,elektronika,Poznań,2,"299,99",10.04.2025,krzysztof.k@gmail.com
+1253,anna kowalska ,Monitor,akcesoria,Poznań,2,1 499.00,13.02.2025,
+1254,Anna Kowalska,Mysz,Akcesoria,warszawa,1,199.99,2025-08-24,anna@gmail.com
+1255,Tomasz Zieliński ,Słuchawki,Akcesoria ,kraków,2,2999,27.01.2025,tomasz@interia.pl
+1256,  Jan Nowak,MYSZ,akcesoria,Łódź ,1,199.99,11.08.2025,krzysztof.k@gmail.com
+1257,Marta Wójcik,Laptop,ELEKTRONIKA,Warszawa,3,2999,2025-02-17,tomasz@interia.pl
+1258,anna kowalska ,monitor,ELEKTRONIKA,Łódź ,3,399.00 zł,02.05.2025,krzysztof.k@gmail.com
+1259,Tomasz Zieliński ,monitor,Akcesoria,WROCŁAW,3,399.00 zł,09.05.2025,tomasz@interia.pl
+1260,Tomasz Zieliński ,Mysz,Akcesoria ,WROCŁAW,2,89.50,05.07.2025,brak
+1261,katarzyna lewandowska,Klawiatura,Akcesoria ,Kraków,2,89.50,2025-09-09,
+1262,anna kowalska ,laptop,akcesoria,Gdańsk,1,2999,10.09.2025,marta@gmail.com
+1263,Anna Kowalska,laptop,akcesoria,Poznań,3,1 499.00,2025-03-03,krzysztof.k@gmail.com
+1264, Magdalena Dąbrowska,Laptop,Akcesoria ,Łódź ,1,199.99,2025-06-01,brak
+1265,PIOTR WIŚNIEWSKI,Pendrive,akcesoria,WROCŁAW,1,,11.10.2025,krzysztof.k@gmail.com
+1266,PIOTR WIŚNIEWSKI,Pendrive,Akcesoria ,kraków,1,199.99,2025-07-20,tomasz@interia.pl
+1267,Anna Kowalska,Monitor,elektronika,warszawa,1,89.50,09.04.2025,anna@gmail.com
+1268,Anna Kowalska,Słuchawki,Akcesoria ,Warszawa,2,abc,11.09.2025,krzysztof.k@gmail.com
+1269,PIOTR WIŚNIEWSKI,Webcam,ELEKTRONIKA,Gdańsk,1,,03.08.2025,brak
+1270,Anna Kowalska,Klawiatura,akcesoria,kraków,3,2999,2025-09-04,tomasz@interia.pl
+1271,  Jan Nowak,MYSZ,Akcesoria ,Gdańsk,1,,2025-06-14,JAN@WP.PL
+1272,Krzysztof Kamiński,Webcam,Akcesoria ,Kraków,1,abc,23.06.2025,tomasz@interia.pl
+1273, Magdalena Dąbrowska,Webcam,akcesoria,WROCŁAW,2,199.99,2025-06-28,
+1274,  Jan Nowak,monitor,elektronika,warszawa,1,199.99,10.03.2025,marta@gmail.com
+1275,katarzyna lewandowska,Laptop,elektronika,kraków,1,1 499.00,2025-04-02,JAN@WP.PL
+1276,Krzysztof Kamiński,laptop,akcesoria,Gdańsk,3,"299,99",2025-09-11,
+1277,Krzysztof Kamiński,Monitor,Elektronika,Poznań,1,,06.04.2025,
+1278,anna kowalska ,Pendrive,akcesoria,Kraków,3,89.50,04.03.2025,
+1279,Anna Kowalska,Laptop,akcesoria,Poznań,1,abc,21.09.2025,anna@gmail.com
+1280,Anna Kowalska,monitor,elektronika,warszawa,1,abc,14.08.2025,
+1281,Krzysztof Kamiński,MYSZ,elektronika,kraków,3,abc,20.02.2025,anna@gmail.com
+1282,anna kowalska ,Monitor,akcesoria,Kraków,1,89.50,2025-08-05,
+1283, Magdalena Dąbrowska,monitor,akcesoria,kraków,1,"299,99",21.06.2025,piotr.w@onet
+1284,Krzysztof Kamiński,laptop,akcesoria,WROCŁAW,1,199.99,2025-07-22,brak
+1285,Marta Wójcik,laptop,elektronika, Warszawa,1,1 499.00,2025-02-13,JAN@WP.PL
+1286,Anna Kowalska,laptop,akcesoria,Kraków,3,1 499.00,07.07.2025,piotr.w@onet
+1287,Anna Kowalska,Laptop,akcesoria,Poznań,1,89.50,25.01.2025,
+1288,  Jan Nowak,Laptop,Akcesoria,warszawa,3,1 499.00,2025-03-22,JAN@WP.PL
+1289,katarzyna lewandowska,Pendrive,Elektronika,WROCŁAW,5,abc,05.05.2025,JAN@WP.PL
+1290,Anna Kowalska,Pendrive,,,1,399.00 zł,,krzysztof.k@gmail.com
+1291,Tomasz Zieliński ,MYSZ,Elektronika,Warszawa,5,"299,99",2025-10-04,marta@gmail.com
+1292,  Jan Nowak,Monitor,Akcesoria,WROCŁAW,1,199.99,2025-02-20,piotr.w@onet
+1293,Anna Kowalska,Mysz,ELEKTRONIKA,warszawa,-1,399.00 zł,2025-04-23,marta@gmail.com
+1294,katarzyna lewandowska,Mysz,,,1,"299,99",,JAN@WP.PL
+1295,Anna Kowalska,monitor,Akcesoria,Kraków,2,2999,10.03.2025,anna@gmail.com
+1296,Anna Kowalska,laptop,akcesoria,kraków,1,,24.05.2025,JAN@WP.PL
+1297, Magdalena Dąbrowska,Monitor,elektronika,warszawa,1,89.50,11.08.2025,marta@gmail.com
+1298,Krzysztof Kamiński,Webcam,Akcesoria ,Kraków,2,abc,2025-05-11,piotr.w@onet
+1299,Marta Wójcik,Laptop,Akcesoria,kraków,3,1 499.00,11.04.2025,
+1300,Anna Kowalska,Słuchawki,elektronika,Łódź ,1,2999,24.05.2025,krzysztof.k@gmail.com
+1301,anna kowalska ,Klawiatura,Akcesoria,Poznań,1,1 499.00,2025-09-14,krzysztof.k@gmail.com
+1302,Anna Kowalska,MYSZ,Akcesoria,Warszawa,3,399.00 zł,2025-03-06,krzysztof.k@gmail.com
+1303,anna kowalska ,laptop,elektronika,WROCŁAW,2,199.99,2025-08-25,
+1304,katarzyna lewandowska,laptop,ELEKTRONIKA,warszawa,-1,199.99,28.06.2025,krzysztof.k@gmail.com
+1305,Anna Kowalska,laptop,,,3,199.99,,piotr.w@onet
+1306,Marta Wójcik,Laptop,,,-1,abc,,
+1307,katarzyna lewandowska,Laptop,Akcesoria,Kraków,3,1 499.00,07.06.2025,krzysztof.k@gmail.com
+1308,Tomasz Zieliński ,Klawiatura,akcesoria,Kraków,1,2999,2025-03-04,
+1309,Tomasz Zieliński ,Webcam,Akcesoria ,warszawa,1,199.99,01.01.2025,marta@gmail.com
+1310,anna kowalska ,Monitor,elektronika, Warszawa,3,2999,2025-08-21,brak
+1311,Krzysztof Kamiński,laptop,,,2,1 499.00,,brak
+1312,  Jan Nowak,Mysz,,,1,abc,,piotr.w@onet
+1313,Krzysztof Kamiński,Pendrive,,,1,399.00 zł,,tomasz@interia.pl
+1314, Magdalena Dąbrowska,Mysz,Elektronika,kraków,-1,abc,26.10.2025,anna@gmail.com
+1315,Krzysztof Kamiński,monitor,Elektronika,Gdańsk,2,2999,01.03.2025,krzysztof.k@gmail.com
+1316, Magdalena Dąbrowska,Mysz,Elektronika,Warszawa,1,abc,2025-08-19,anna@gmail.com
+1317, Magdalena Dąbrowska,monitor,Elektronika, Warszawa,1,abc,2025-09-25,
+1318,Marta Wójcik,Słuchawki,Elektronika,Łódź ,1,399.00 zł,2025-05-08,anna@gmail.com
+1319,Anna Kowalska,Pendrive,Elektronika,Łódź ,1,1 499.00,2025-06-21,piotr.w@onet
+1320,Marta Wójcik,Mysz,elektronika,warszawa,1,1 499.00,02.07.2025,piotr.w@onet
+1321, Magdalena Dąbrowska,Słuchawki,Akcesoria,Gdańsk,1,89.50,2025-02-10,JAN@WP.PL
+1322,katarzyna lewandowska,MYSZ,akcesoria,kraków,3,abc,2025-10-20,brak
+1323,Tomasz Zieliński ,Monitor,,,1,1 499.00,,krzysztof.k@gmail.com
+1324, Magdalena Dąbrowska,Słuchawki,elektronika,WROCŁAW,3,1 499.00,10.09.2025,JAN@WP.PL
+1325,Marta Wójcik,Monitor,elektronika,warszawa,5,"299,99",10.10.2025,anna@gmail.com
+1326,katarzyna lewandowska,Mysz,elektronika,kraków,1,199.99,2025-02-08,tomasz@interia.pl
+1327,Marta Wójcik,Webcam,Akcesoria,WROCŁAW,2,89.50,05.04.2025,JAN@WP.PL
+1328,Krzysztof Kamiński,Słuchawki,akcesoria,WROCŁAW,1,,2025-04-16,JAN@WP.PL
+1329,Anna Kowalska,Pendrive,Akcesoria,Gdańsk,5,89.50,14.09.2025,piotr.w@onet
+1330,anna kowalska ,Mysz,ELEKTRONIKA,Gdańsk,1,89.50,2025-05-16,tomasz@interia.pl
+1331,  Jan Nowak,laptop,elektronika,Warszawa,2,,2025-08-19,
+1332,Marta Wójcik,Laptop,ELEKTRONIKA,Łódź ,2,"299,99",03.06.2025,anna@gmail.com
+1333,  Jan Nowak,Słuchawki,Akcesoria ,kraków,1,abc,2025-10-16,JAN@WP.PL
+1334,PIOTR WIŚNIEWSKI,Pendrive,Elektronika,warszawa,1,399.00 zł,05.08.2025,tomasz@interia.pl
+1335,Marta Wójcik,MYSZ,Elektronika,Kraków,2,1 499.00,31.05.2025,brak
+1336,Anna Kowalska,laptop,Akcesoria,warszawa,3,199.99,2025-07-10,krzysztof.k@gmail.com
+1337,  Jan Nowak,MYSZ,akcesoria,Warszawa,1,2999,2025-02-18,tomasz@interia.pl
+1338, Magdalena Dąbrowska,Mysz,ELEKTRONIKA,Poznań,2,abc,11.08.2025,brak
+1339,Marta Wójcik,Laptop,akcesoria,Łódź ,1,,2025-03-03,anna@gmail.com
+1340,Anna Kowalska,Słuchawki,Akcesoria,Kraków,3,399.00 zł,15.07.2025,tomasz@interia.pl
+1341,anna kowalska ,Słuchawki,,,1,abc,,brak
+1342,Anna Kowalska,Webcam,akcesoria,Poznań,5,,04.09.2025,tomasz@interia.pl
+1343,  Jan Nowak,Webcam,akcesoria,Gdańsk,1,1 499.00,2025-02-04,tomasz@interia.pl
+1344,Anna Kowalska,Mysz,Elektronika,WROCŁAW,1,"299,99",2025-08-06,krzysztof.k@gmail.com
+1345,katarzyna lewandowska,Mysz,ELEKTRONIKA, Warszawa,1,abc,2025-08-02,brak
+1346,anna kowalska ,Laptop,Elektronika,warszawa,1,,27.02.2025,brak
+1347, Magdalena Dąbrowska,Webcam,akcesoria,warszawa,2,1 499.00,30.06.2025,JAN@WP.PL
+1348,Marta Wójcik,Pendrive,ELEKTRONIKA,Gdańsk,1,1 499.00,22.06.2025,anna@gmail.com
+1349,Marta Wójcik,Pendrive,ELEKTRONIKA,Warszawa,3,"299,99",21.02.2025,krzysztof.k@gmail.com
+1350,Marta Wójcik,Laptop,Elektronika,kraków,1,89.50,11.10.2025,tomasz@interia.pl
+1351,anna kowalska ,Pendrive,akcesoria, Warszawa,1,abc,2025-10-23,tomasz@interia.pl
+1352,Anna Kowalska,monitor,Akcesoria, Warszawa,1,abc,30.06.2025,JAN@WP.PL
+1353,PIOTR WIŚNIEWSKI,Monitor,akcesoria,Poznań,1,89.50,13.04.2025,anna@gmail.com
+1354,Tomasz Zieliński ,Laptop,elektronika,Łódź ,1,199.99,27.05.2025,piotr.w@onet
+1355,Krzysztof Kamiński,Laptop,Akcesoria ,Poznań,1,199.99,2025-05-10,krzysztof.k@gmail.com
+1356,  Jan Nowak,Klawiatura,Akcesoria,kraków,1,89.50,2025-06-02,JAN@WP.PL
+1357,Anna Kowalska,laptop,ELEKTRONIKA,warszawa,1,399.00 zł,03.09.2025,anna@gmail.com
+1358, Magdalena Dąbrowska,laptop,Akcesoria,warszawa,2,2999,2025-04-26,krzysztof.k@gmail.com
+1359,  Jan Nowak,monitor,ELEKTRONIKA,warszawa,2,1 499.00,2025-07-27,tomasz@interia.pl
+1360,Marta Wójcik,Webcam,ELEKTRONIKA,warszawa,1,2999,10.06.2025,anna@gmail.com
+1361,Anna Kowalska,Mysz,Akcesoria,kraków,1,1 499.00,2025-08-25,anna@gmail.com
+1362, Magdalena Dąbrowska,Mysz,ELEKTRONIKA,Gdańsk,-1,89.50,26.02.2025,
+1363,  Jan Nowak,MYSZ,ELEKTRONIKA,Łódź ,2,199.99,02.02.2025,anna@gmail.com
+1364,Marta Wójcik,monitor,elektronika,kraków,2,399.00 zł,31.05.2025,piotr.w@onet
+1365,  Jan Nowak,Laptop,akcesoria,Łódź ,1,199.99,26.04.2025,anna@gmail.com
+1366,Anna Kowalska,monitor,akcesoria,kraków,3,2999,25.04.2025,piotr.w@onet
+1367,Marta Wójcik,monitor,Akcesoria ,warszawa,3,199.99,2025-03-29,tomasz@interia.pl
+1368,PIOTR WIŚNIEWSKI,monitor,Akcesoria ,Gdańsk,2,89.50,12.10.2025,piotr.w@onet
+1369,Anna Kowalska,laptop,elektronika, Warszawa,0,399.00 zł,2025-07-06,krzysztof.k@gmail.com
+1370,katarzyna lewandowska,monitor,Akcesoria ,Poznań,1,2999,07.02.2025,tomasz@interia.pl
+1371,Krzysztof Kamiński,Monitor,Akcesoria,WROCŁAW,1,399.00 zł,2025-06-12,tomasz@interia.pl
+1372,anna kowalska ,Mysz,Elektronika,Gdańsk,3,abc,23.08.2025,piotr.w@onet
+1373,Krzysztof Kamiński,MYSZ,Elektronika, Warszawa,3,1 499.00,2025-01-21,brak
+1374, Magdalena Dąbrowska,Monitor,Elektronika,Warszawa,1,199.99,2025-07-25,JAN@WP.PL
+1375,Krzysztof Kamiński,MYSZ,elektronika,kraków,1,399.00 zł,2025-07-13,marta@gmail.com
+1376,Marta Wójcik,Klawiatura,elektronika,Warszawa,1,"299,99",08.08.2025,brak
+1377,PIOTR WIŚNIEWSKI,MYSZ,ELEKTRONIKA, Warszawa,1,abc,2025-09-09,anna@gmail.com
+1378,katarzyna lewandowska,Mysz,Elektronika,Gdańsk,3,199.99,2025-05-27,
+1379,Anna Kowalska,Mysz,Akcesoria,kraków,2,1 499.00,11.08.2025,marta@gmail.com
+1380,Anna Kowalska,monitor,Akcesoria ,WROCŁAW,1,399.00 zł,2025-08-28,anna@gmail.com
+1381,Anna Kowalska,Słuchawki,Akcesoria,warszawa,1,2999,2025-02-23,brak
+1382,anna kowalska ,Klawiatura,Akcesoria ,kraków,1,1 499.00,2025-09-22,brak
+1383,  Jan Nowak,Laptop,Elektronika,kraków,1,"299,99",27.04.2025,anna@gmail.com
+1384,PIOTR WIŚNIEWSKI,Pendrive,Elektronika,Gdańsk,2,399.00 zł,06.02.2025,tomasz@interia.pl
+1385,  Jan Nowak,MYSZ,Elektronika,Gdańsk,-1,,2025-07-09,anna@gmail.com
+1386,katarzyna lewandowska,Słuchawki,elektronika, Warszawa,3,,2025-02-22,
+1387,Krzysztof Kamiński,monitor,Akcesoria ,Kraków,1,89.50,20.01.2025,brak
+1388,Anna Kowalska,laptop,elektronika,kraków,5,199.99,2025-05-03,anna@gmail.com
+1389,katarzyna lewandowska,Laptop,elektronika,Poznań,3,2999,09.04.2025,piotr.w@onet
+1390,Krzysztof Kamiński,Webcam,akcesoria,kraków,3,89.50,2025-09-25,marta@gmail.com
+1391,Anna Kowalska,Słuchawki,Akcesoria, Warszawa,1,399.00 zł,31.03.2025,piotr.w@onet
+1392,Krzysztof Kamiński,laptop,Akcesoria,Łódź ,1,,05.08.2025,
+1393,anna kowalska ,Klawiatura,ELEKTRONIKA,Warszawa,1,,19.04.2025,anna@gmail.com
+1394,PIOTR WIŚNIEWSKI,monitor,elektronika,warszawa,1,,2025-05-02,krzysztof.k@gmail.com
+1395, Magdalena Dąbrowska,Laptop,Akcesoria ,Kraków,1,399.00 zł,06.04.2025,
+1396,katarzyna lewandowska,Laptop,akcesoria,WROCŁAW,1,,2025-06-09,tomasz@interia.pl
+1397,katarzyna lewandowska,Laptop,akcesoria,WROCŁAW,1,1 499.00,06.10.2025,piotr.w@onet
+1398,Tomasz Zieliński ,Klawiatura,Akcesoria,WROCŁAW,3,abc,17.01.2025,piotr.w@onet
+1399,Marta Wójcik,MYSZ,elektronika,Gdańsk,1,399.00 zł,2025-05-27,JAN@WP.PL
+1400,anna kowalska ,Webcam,ELEKTRONIKA,WROCŁAW,1,2999,27.02.2025,anna@gmail.com
+1401,anna kowalska ,Klawiatura,elektronika,warszawa,-1,abc,2025-06-01,tomasz@interia.pl
+1402,  Jan Nowak,Pendrive,Elektronika,Warszawa,5,89.50,2025-10-10,krzysztof.k@gmail.com
+1403,Krzysztof Kamiński,Webcam,elektronika,WROCŁAW,3,2999,21.09.2025,piotr.w@onet
+1404,Marta Wójcik,Mysz,Elektronika,kraków,0,abc,11.02.2025,piotr.w@onet
+1405,PIOTR WIŚNIEWSKI,monitor,Elektronika,kraków,2,"299,99",2025-08-06,tomasz@interia.pl
+1406,PIOTR WIŚNIEWSKI,Klawiatura,ELEKTRONIKA,Gdańsk,-1,,08.07.2025,
+1407,anna kowalska ,laptop,Akcesoria ,warszawa,1,"299,99",06.09.2025,
+1408,PIOTR WIŚNIEWSKI,Webcam,Akcesoria,Warszawa,1,199.99,2025-08-13,anna@gmail.com
+1409,Tomasz Zieliński ,Pendrive,elektronika,Kraków,1,199.99,2025-05-30,brak
+1410,katarzyna lewandowska,Mysz,Elektronika, Warszawa,1,abc,14.04.2025,JAN@WP.PL
+1411,Anna Kowalska,MYSZ,elektronika,Warszawa,1,"299,99",2025-04-23,piotr.w@onet
+1412, Magdalena Dąbrowska,laptop,Akcesoria , Warszawa,2,399.00 zł,2025-03-22,brak
+1413,  Jan Nowak,Webcam,Akcesoria,Łódź ,3,2999,29.06.2025,brak
+1414,Krzysztof Kamiński,monitor,Akcesoria , Warszawa,2,"299,99",2025-01-22,JAN@WP.PL
+1415, Magdalena Dąbrowska,laptop,Akcesoria,Poznań,1,199.99,2025-08-21,brak
+1416,Krzysztof Kamiński,Mysz,akcesoria,kraków,3,"299,99",2025-06-01,brak
+1417,Anna Kowalska,laptop,Akcesoria,warszawa,2,399.00 zł,2025-04-23,
+1418, Magdalena Dąbrowska,Monitor,ELEKTRONIKA,Gdańsk,1,"299,99",2025-04-30,
+1419,Anna Kowalska,Słuchawki,Akcesoria ,Poznań,2,2999,26.06.2025,marta@gmail.com
+1420,anna kowalska ,MYSZ,Elektronika, Warszawa,1,89.50,2025-07-18,krzysztof.k@gmail.com
+1421,Tomasz Zieliński ,Mysz,akcesoria,WROCŁAW,1,399.00 zł,2025-05-24,anna@gmail.com
+1422,katarzyna lewandowska,laptop,ELEKTRONIKA,warszawa,5,199.99,11.07.2025,brak
+1423,katarzyna lewandowska,Słuchawki,elektronika,Poznań,1,2999,2025-05-19,marta@gmail.com
+1424,Tomasz Zieliński ,Słuchawki,Akcesoria ,Gdańsk,1,"299,99",2025-07-17,krzysztof.k@gmail.com
+1425,Marta Wójcik,laptop,Elektronika,kraków,5,"299,99",04.06.2025,marta@gmail.com
+1426,Anna Kowalska,monitor,Akcesoria,warszawa,3,89.50,26.06.2025,marta@gmail.com
+1427,Krzysztof Kamiński,Monitor,Elektronika,Gdańsk,1,199.99,30.08.2025,anna@gmail.com
+1428,Anna Kowalska,Klawiatura,elektronika,Łódź ,1,199.99,2025-04-23,anna@gmail.com
+1429,PIOTR WIŚNIEWSKI,Monitor,akcesoria,Łódź ,1,1 499.00,12.08.2025,tomasz@interia.pl
+1430, Magdalena Dąbrowska,laptop,akcesoria,Gdańsk,2,199.99,2025-09-21,JAN@WP.PL
+1431,Anna Kowalska,MYSZ,Akcesoria ,Poznań,1,89.50,05.02.2025,JAN@WP.PL
+1432, Magdalena Dąbrowska,Klawiatura,akcesoria,warszawa,1,,2025-05-14,tomasz@interia.pl
+1433,Anna Kowalska,Mysz,Akcesoria ,Poznań,-1,1 499.00,2025-08-10,tomasz@interia.pl
+1434,  Jan Nowak,Monitor,Akcesoria ,Kraków,2,1 499.00,22.02.2025,
+1435,  Jan Nowak,laptop,,,1,"299,99",,krzysztof.k@gmail.com
+1436,Anna Kowalska,Monitor,Akcesoria,Kraków,2,"299,99",26.01.2025,marta@gmail.com
+1437,anna kowalska ,Klawiatura,ELEKTRONIKA,Łódź ,2,199.99,16.01.2025,brak
+1438,Anna Kowalska,Pendrive,Akcesoria ,kraków,1,1 499.00,17.02.2025,tomasz@interia.pl
+1439,Anna Kowalska,Webcam,Akcesoria ,Warszawa,1,abc,2025-07-17,piotr.w@onet
+1440,Tomasz Zieliński ,Monitor,ELEKTRONIKA, Warszawa,3,"299,99",2025-04-08,JAN@WP.PL
+1441,anna kowalska ,Mysz,Elektronika,Łódź ,1,89.50,16.04.2025,tomasz@interia.pl
+1442,Krzysztof Kamiński,Mysz,Akcesoria ,Poznań,2,abc,04.04.2025,piotr.w@onet
+1443,Krzysztof Kamiński,Laptop,Akcesoria,Poznań,1,"299,99",2025-04-13,piotr.w@onet
+1444,PIOTR WIŚNIEWSKI,Monitor,akcesoria,Poznań,1,399.00 zł,12.02.2025,piotr.w@onet
+1445,katarzyna lewandowska,Webcam,akcesoria,kraków,1,399.00 zł,27.02.2025,
+1446,  Jan Nowak,monitor,elektronika,Kraków,1,"299,99",12.10.2025,
+1447,Krzysztof Kamiński,Słuchawki,elektronika,Warszawa,1,1 499.00,21.09.2025,brak
+1448,anna kowalska ,Webcam,akcesoria,Poznań,1,,2025-09-16,brak
+1449,Anna Kowalska,Słuchawki,akcesoria, Warszawa,3,,2025-09-27,piotr.w@onet
+1450,Krzysztof Kamiński,Słuchawki,Akcesoria,warszawa,0,1 499.00,25.09.2025,krzysztof.k@gmail.com
+1451,Anna Kowalska,Pendrive,ELEKTRONIKA,Warszawa,3,2999,2025-06-09,
+1452,Krzysztof Kamiński,Laptop,elektronika,kraków,5,,2025-07-27,marta@gmail.com
+1453,  Jan Nowak,Webcam,ELEKTRONIKA,Warszawa,1,399.00 zł,27.08.2025,piotr.w@onet
+1454, Magdalena Dąbrowska,Webcam,Akcesoria,warszawa,-1,89.50,2025-02-23,marta@gmail.com
+1455,Krzysztof Kamiński,Pendrive,akcesoria, Warszawa,1,1 499.00,01.06.2025,marta@gmail.com
+1456,anna kowalska ,Monitor,Akcesoria ,warszawa,-1,199.99,2025-07-06,piotr.w@onet
+1457,Krzysztof Kamiński,Monitor,ELEKTRONIKA,Gdańsk,0,399.00 zł,2025-01-14,JAN@WP.PL
+1458,katarzyna lewandowska,Monitor,akcesoria, Warszawa,3,89.50,2025-06-10,krzysztof.k@gmail.com
+1459,  Jan Nowak,MYSZ,akcesoria,Warszawa,0,89.50,26.09.2025,piotr.w@onet
+1460,anna kowalska ,Słuchawki,Elektronika,Poznań,2,1 499.00,2025-05-28,brak
+1461,Tomasz Zieliński ,MYSZ,ELEKTRONIKA,Warszawa,1,89.50,2025-02-02,piotr.w@onet
+1462,anna kowalska ,Laptop,Akcesoria ,Warszawa,1,1 499.00,2025-03-22,
+1463,katarzyna lewandowska,Pendrive,ELEKTRONIKA, Warszawa,2,,2025-07-17,piotr.w@onet
+1464, Magdalena Dąbrowska,Webcam,akcesoria,Gdańsk,1,"299,99",27.08.2025,JAN@WP.PL
+1465,  Jan Nowak,Słuchawki,Akcesoria ,Warszawa,2,399.00 zł,11.07.2025,
+1466,Tomasz Zieliński ,MYSZ,Akcesoria,Łódź ,0,2999,07.06.2025,brak
+1467,katarzyna lewandowska,MYSZ,Elektronika,WROCŁAW,1,"299,99",27.06.2025,anna@gmail.com
+1468,katarzyna lewandowska,laptop,akcesoria,WROCŁAW,3,399.00 zł,25.06.2025,anna@gmail.com
+1469,Anna Kowalska,MYSZ,elektronika,Warszawa,5,1 499.00,2025-09-09,marta@gmail.com
+1470,  Jan Nowak,monitor,elektronika,Poznań,5,399.00 zł,18.01.2025,krzysztof.k@gmail.com
+1471,anna kowalska ,Webcam,Elektronika,kraków,-1,,2025-02-14,marta@gmail.com
+1472,Anna Kowalska,monitor,Akcesoria,kraków,2,1 499.00,31.05.2025,JAN@WP.PL
+1473, Magdalena Dąbrowska,Webcam,akcesoria, Warszawa,0,"299,99",2025-09-11,tomasz@interia.pl
+1474,Anna Kowalska,Pendrive,ELEKTRONIKA,WROCŁAW,3,199.99,09.07.2025,brak
+1475,anna kowalska ,Webcam,Elektronika,Warszawa,1,199.99,2025-05-01,krzysztof.k@gmail.com
+1476,anna kowalska ,monitor,Akcesoria,kraków,1,abc,15.07.2025,brak
+1477,  Jan Nowak,Webcam,ELEKTRONIKA,Warszawa,3,abc,15.10.2025,anna@gmail.com
+1478,anna kowalska ,Pendrive,elektronika, Warszawa,1,399.00 zł,17.10.2025,marta@gmail.com
+1479,Anna Kowalska,Pendrive,elektronika,WROCŁAW,2,199.99,2025-01-28,brak
+1480,Tomasz Zieliński ,Laptop,,,2,1 499.00,,anna@gmail.com
+1481,anna kowalska ,Webcam,Elektronika,Łódź ,1,89.50,17.06.2025,JAN@WP.PL
+1482,Anna Kowalska,laptop,elektronika,Łódź ,2,1 499.00,2025-04-11,JAN@WP.PL
+1483,anna kowalska ,Monitor,akcesoria,kraków,3,89.50,2025-06-24,tomasz@interia.pl
+1484,Anna Kowalska,Mysz,Akcesoria ,Łódź ,1,"299,99",2025-07-08,brak
+1485,Krzysztof Kamiński,Pendrive,ELEKTRONIKA,warszawa,1,2999,2025-04-07,tomasz@interia.pl
+1486,Krzysztof Kamiński,Klawiatura,,,1,89.50,,
+1487,katarzyna lewandowska,Monitor,elektronika, Warszawa,1,199.99,05.04.2025,krzysztof.k@gmail.com
+1488, Magdalena Dąbrowska,Słuchawki,Elektronika,warszawa,5,1 499.00,03.04.2025,brak
+1489,PIOTR WIŚNIEWSKI,Webcam,akcesoria, Warszawa,1,"299,99",16.10.2025,JAN@WP.PL
+1490,Tomasz Zieliński ,monitor,Elektronika, Warszawa,2,199.99,2025-01-02,marta@gmail.com
+1491,Marta Wójcik,Mysz,Akcesoria,WROCŁAW,1,"299,99",2025-07-06,anna@gmail.com
+1492,katarzyna lewandowska,Klawiatura,Akcesoria,Warszawa,1,2999,2025-08-19,piotr.w@onet
+1493, Magdalena Dąbrowska,Monitor,,,3,,,tomasz@interia.pl
+1494,Krzysztof Kamiński,Webcam,elektronika,WROCŁAW,3,1 499.00,2025-04-13,piotr.w@onet
+1495,Anna Kowalska,Laptop,elektronika, Warszawa,1,399.00 zł,2025-06-10,brak
+1496,Marta Wójcik,Słuchawki,elektronika,kraków,1,1 499.00,22.01.2025,marta@gmail.com
+1497, Magdalena Dąbrowska,Mysz,Akcesoria ,Łódź ,1,abc,17.10.2025,tomasz@interia.pl
+1498, Magdalena Dąbrowska,laptop,Akcesoria,Łódź ,1,2999,13.05.2025,piotr.w@onet
+1499,katarzyna lewandowska,Laptop,Elektronika,Warszawa,2,1 499.00,04.10.2025,krzysztof.k@gmail.com
+1500,Marta Wójcik,Klawiatura,Akcesoria ,Gdańsk,1,abc,2025-01-15,marta@gmail.com
+1130,Marta Wójcik,Pendrive,Elektronika,Łódź ,2,89.50,03.03.2025,JAN@WP.PL
+1281,Krzysztof Kamiński,MYSZ,elektronika,kraków,3,abc,20.02.2025,anna@gmail.com
+1441,anna kowalska ,Mysz,Elektronika,Łódź ,1,89.50,16.04.2025,tomasz@interia.pl
+1385,  Jan Nowak,MYSZ,Elektronika,Gdańsk,-1,,2025-07-09,anna@gmail.com
+1226,Tomasz Zieliński ,Słuchawki,ELEKTRONIKA, Warszawa,1,199.99,2025-06-16,JAN@WP.PL
+1417,Anna Kowalska,laptop,Akcesoria,warszawa,2,399.00 zł,2025-04-23,
+1002,Anna Kowalska,Monitor,elektronika,Kraków,1,399.00 zł,2025-04-09,marta@gmail.com
+1436,Anna Kowalska,Monitor,Akcesoria,Kraków,2,"299,99",26.01.2025,marta@gmail.com
+1347, Magdalena Dąbrowska,Webcam,akcesoria,warszawa,2,1 499.00,30.06.2025,JAN@WP.PL
+1315,Krzysztof Kamiński,monitor,Elektronika,Gdańsk,2,2999,01.03.2025,krzysztof.k@gmail.com
+1475,anna kowalska ,Webcam,Elektronika,Warszawa,1,199.99,2025-05-01,krzysztof.k@gmail.com
+1318,Marta Wójcik,Słuchawki,Elektronika,Łódź ,1,399.00 zł,2025-05-08,anna@gmail.com
+1162,katarzyna lewandowska,Pendrive,Elektronika,Łódź ,2,89.50,07.06.2025,krzysztof.k@gmail.com
+1132,Anna Kowalska,Laptop,ELEKTRONIKA,Kraków,2,2999,2025-10-21,piotr.w@onet
+1376,Marta Wójcik,Klawiatura,elektronika,Warszawa,1,"299,99",08.08.2025,brak
+1199,Krzysztof Kamiński,Klawiatura,Elektronika, Warszawa,3,1 499.00,2025-03-30,marta@gmail.com
+1328,Krzysztof Kamiński,Słuchawki,akcesoria,WROCŁAW,1,,2025-04-16,JAN@WP.PL
+1466,Tomasz Zieliński ,MYSZ,Akcesoria,Łódź ,0,2999,07.06.2025,brak
+1331,  Jan Nowak,laptop,elektronika,Warszawa,2,,2025-08-19,
+1177,katarzyna lewandowska,Słuchawki,akcesoria,WROCŁAW,5,199.99,16.02.2025,anna@gmail.com
